@@ -10,7 +10,7 @@
 
 * 🖥️ **View My Full Portfolio:** **[My Wix Portfolio Website](https://your-wix-site-link.com)**
 * 🌱 **I'm currently learning:** [Add a new skill here, e.g., "Advanced Shader Programming,optimization with the unity profiler"]
-* 💬 **Contact me at:** [your.email@gmail.com]
+* 💬 **Contact me at:** [nithinvincent371@gmail.com]
 
 ### My Skills
 
