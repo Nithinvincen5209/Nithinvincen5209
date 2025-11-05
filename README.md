@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hello, I'm NITHIN VINCENT 👋
 
-<!--
-**Nithinvincen5209/Nithinvincen5209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### GAME DEVELOPER & DESIGNER
 
-Here are some ideas to get you started:
+"Hello. I'm a developer who bridges the gap between technical code and creative design. I specialize in using Unity and C# to build fun, player-focused mechanics that feel great to play."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Portfolio & Skills
+
+* 🖥️ **View My Full Portfolio:** **[My Wix Portfolio Website](https://your-wix-site-link.com)**
+* 🌱 **I'm currently learning:** [Add a new skill here, e.g., "Advanced Shader Programming,optimization with the unity profiler"]
+* 💬 **Contact me at:** [your.email@gmail.com]
+
+### My Skills
+
+* **Engines:** Unity
+* **Languages:** C#
+* **Tools:** Git, Visual Studio, Wwise
+
+### My Game Projects
+
+* **[Tower Defense (Strategy)](https://github.com/your-username/your-tower-defense-repo)**
+* **[UFO Lander (Arcade)](https://github.com/your-username/your-ufo-repo)**
+* **[Zombie Escape (Survival Horror)](https://github.com/your-username/your-zombie-repo)**
+* **[Memory Match (Puzzle)](https://github.com/your-username/your-memory-repo)**
