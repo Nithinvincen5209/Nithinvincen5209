@@ -18,6 +18,15 @@
 * **Languages:** C#
 * **Tools:** Git, Visual Studio, Wwise
 
+  
+## 🛠️ Technologies Used
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Wwise](https://img.shields.io/badge/Wwise-000000?style=for-the-badge&logo=Wwise&logoColor=white)
+
+
+
 ### My Game Projects
 
 * **[Tower Defense (Strategy)](https://github.com/Nithinvincen5209/Tower-Tactics)**
