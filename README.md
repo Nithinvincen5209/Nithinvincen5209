@@ -32,4 +32,4 @@
 * **[Tower Defense (Strategy)](https://github.com/Nithinvincen5209/Tower-Tactics)**
 * **[UFO Lander (Arcade)](https://github.com/Nithinvincen5209/UFO)**
 * **[Zombie Escape (Survival Horror)](https://github.com/Nithinvincen5209/Zombie-Escape)**
-* **[Memory Match (Puzzle)](https://github.com/your-username/your-memory-repo)**
+* **[Memory Match (Puzzle)](https://github.com/Nithinvincen5209/Memory-Puzzle)**
