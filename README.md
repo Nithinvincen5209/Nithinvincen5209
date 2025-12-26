@@ -8,7 +8,7 @@
 
 ### Portfolio & Skills
 
-* 🖥️ **View My Full Portfolio:** **(https://nithinvincent371.wixstudio.com/my-site-1)**
+* 🖥️ **View My Full Portfolio:** **(https://nithinvincent.my.canva.site/)**
 * 🌱 **I'm currently learning:** [ "Advanced Shader Programming,optimization with the unity profiler"]
 * 💬 **Contact me at:** [nithinvincent371@gmail.com]
 
